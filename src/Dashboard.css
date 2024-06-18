@@ -1,0 +1,35 @@
+.dashboard {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.filters input {
+  margin: 5px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.filters input:focus {
+  border-color: #007bff;
+}
+
+svg {
+  display: block;
+  margin: 0 auto;
+}
+
+  
